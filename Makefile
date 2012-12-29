@@ -35,3 +35,5 @@ minify:
 
 test:
 	@echo to be implemented
+
+.PHONY: test
